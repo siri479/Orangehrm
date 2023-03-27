@@ -1,0 +1,9 @@
+<suit name = "selenium grid test suit">
+
+<test name = "admin login">
+<classes>
+<class name = "TestRunners.adminlogin"></class>
+
+</classes>
+</test>
+</suit>
